@@ -29,3 +29,12 @@ No student articles have been accepted yet. Approved articles will be linked her
 4. Follow only steps inside your assignment and authority.
 5. Record missing, unclear, or unsafe guidance.
 6. Propose a specific improvement through peer review.
+
+
+## Promotion to SOTE Operational Knowledge
+
+The CIT-205 Classroom Knowledge Base and the governed SOTE operational Knowledge Base are separate layers.
+
+A merged classroom article is **Classroom Accepted**. It may be used for classroom learning and may become a candidate for SOTE operational knowledge, but classroom acceptance does not automatically make it SOTE canon.
+
+Promotion into SOTE operational knowledge requires a separate review for operational accuracy, scope, authority, privacy, infrastructure relevance, and current procedure. The approved SOTE version may be revised from the classroom version before publication.
