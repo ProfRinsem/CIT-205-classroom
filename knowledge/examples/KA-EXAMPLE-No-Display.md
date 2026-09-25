@@ -9,6 +9,7 @@ The user reports that the computer seems to power on, but the monitor is blank. 
 
 ## Questions to Ask
 
+- What happened right before this stopped working?
 - What lights, sounds, or messages do you observe?
 - Did the display work previously?
 - Did anything change or move recently?
